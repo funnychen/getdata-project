@@ -1,16 +1,16 @@
 ## DATA DICTIONARY - UCI HAR TIDY DATASET
 
 subject					2  
-	An identifier of the subject who carried out the experiment, from 1 to 30  
++	An identifier of the subject who carried out the experiment, from 1 to 30  
 	
 activity				18  
-	Each person performed six activities in the experiment.  
-		WALKING  
-		WALKING\_UPSTAIRS  
-		WALKING\_DOWNSTAIRS  
-		SITTING  
-		STANDING  
-		LAYING  
++	ach person performed six activities in the experiment.  
+ +		WALKING  
+ +		WALKING\_UPSTAIRS  
+ +		WALKING\_DOWNSTAIRS  
+ +		SITTING  
+ +		STANDING  
+ +		LAYING  
 
 tBodyAcc.mean.X			12
 	Mean of tBodyAcc-mean()-X of each variable for each activity and each subject. The data comes from the accelerometer and gyroscope 3-axial raw signals, and "mean()" for mean value, "std()" for standard deviation.
